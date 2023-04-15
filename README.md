@@ -1,3 +1,3 @@
 # ria
 
-Personal website i guess
+Personal website I guess
