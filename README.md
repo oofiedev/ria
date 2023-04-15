@@ -1,2 +1,3 @@
 # ria
- Personal website with URL shorterner feature
+
+Personal website i guess
